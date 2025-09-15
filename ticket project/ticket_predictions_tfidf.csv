@@ -1,0 +1,41 @@
+ticket_number,x_text,y_label,predicted_label
+Ticket #001,ticket #001 - system crash</title>,system crash,software crash
+Ticket #TKT-001,ticket #tkt-001,other issue,other issue
+Ticket #002,ticket #002 - network security</title>,network issue,network issue
+Ticket #TKT-002,ticket #tkt-002,other issue,other issue
+Ticket #003,ticket #003 - email outage</title>,other issue,software crash
+Ticket #TKT-003,ticket #tkt-003,other issue,other issue
+Ticket #004,ticket #004 - network printer issues</title>,network issue,network issue
+Ticket #TKT-004,ticket #tkt-004,other issue,other issue
+Ticket #005,ticket #005 - software installation</title>,software crash,software crash
+Ticket #TKT-005,ticket #tkt-005,other issue,other issue
+Ticket #006,ticket #006 - blue screen error</title>,system crash,system crash
+Ticket #TKT-006,ticket #tkt-006,other issue,other issue
+Ticket #007,ticket #007 - virus removal</title>,other issue,other issue
+Ticket #TKT-007,ticket #tkt-007,other issue,other issue
+Ticket #008,ticket #008 - database timeout</title>,database crash,other issue
+Ticket #TKT-008,ticket #tkt-008,other issue,other issue
+Ticket #009,ticket #009 - voip phone issues</title>,other issue,other issue
+Ticket #TKT-009,ticket #tkt-009,other issue,other issue
+Ticket #010,ticket #010 - backup failure</title>,other issue,other issue
+Ticket #TKT-010,ticket #tkt-010,other issue,other issue
+Ticket #011,ticket #011 - vpn connection issues</title>,network issue,other issue
+Ticket #TKT-011,ticket #tkt-011,other issue,other issue
+Ticket #012,ticket #012 - performance optimization</title>,other issue,other issue
+Ticket #TKT-012,ticket #tkt-012,other issue,other issue
+Ticket #013,ticket #013 - license activation</title>,other issue,other issue
+Ticket #TKT-013,ticket #tkt-013,other issue,other issue
+Ticket #014,ticket #014 - network printer issues</title>,network issue,network issue
+Ticket #TKT-014,ticket #tkt-014,other issue,other issue
+Ticket #015,ticket #015 - email attachment issues</title>,other issue,other issue
+Ticket #TKT-015,ticket #tkt-015,other issue,other issue
+Ticket #016,ticket #016 - wireless access point issues</title>,other issue,other issue
+Ticket #TKT-016,ticket #tkt-016,other issue,other issue
+Ticket #017,ticket #017 - software crash</title>,software crash,software crash
+Ticket #TKT-017,ticket #tkt-017,other issue,other issue
+Ticket #018,ticket #018 - domain join issues</title>,other issue,other issue
+Ticket #TKT-018,ticket #tkt-018,other issue,other issue
+Ticket #019,ticket #019 - shared folder access</title>,other issue,other issue
+Ticket #TKT-019,ticket #tkt-019,other issue,other issue
+Ticket #020,ticket #020 - windows update issues</title>,other issue,other issue
+Ticket #TKT-020,ticket #tkt-020,other issue,other issue
